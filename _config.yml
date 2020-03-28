@@ -47,15 +47,15 @@ features                                  :
     fontawesome_icon_name                 : unlock
 
   - title                                 : Manual Mode 
-    description                           : Pro Feature: Load plates with one tap, and just tap again to take them off. Re-racking your weights has never been easier.
+    description                           : Pro Feature — Load plates with one tap, and just tap again to take them off. Re-racking your weights has never been easier.
     fontawesome_icon_name                 : sync
 
   - title                                 : Custom Plates 
-    description                           : Pro Feature: Make your mark, customize your inventory, and create plates of your own.
+    description                           : Pro Feature — Make your mark, customize your inventory, and create plates of your own.
     fontawesome_icon_name                 : adjust
   
   - title                                 : Lifetime Updates
-    description                           : Pro Feature: No annoying recurring subscription. Just pay once and get the latest and greatest for life.
+    description                           : Pro Feature — No annoying recurring subscription. Just pay once and get the latest and greatest for life.
     fontawesome_icon_name                 : star
 
 
