@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Custom Bar + Collars
+    description                           : Switch things up to keep your workouts fresh
+    fontawesome_icon_name                 : dumbbell
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Dark Mode
+    description                           : Rest your eyes and focus on hitting your next PR
+    fontawesome_icon_name                 : moon-stars
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Unlock Pro
+    description                           : Take it to the next level with manual mode and custom plates
+    fontawesome_icon_name                 : unlock
 
   - title                                 : Automatic Icon and Metadata
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
@@ -69,7 +69,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/barbell_plate_calculator.jpg                  # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
