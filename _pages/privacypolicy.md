@@ -5,7 +5,9 @@ include_in_header: false
 ---
 
 Powerlift — Barbell Calculator
+
 PRIVACY POLICY
+
 Last updated March 20, 2020
 
 The developer behind Powerlift — Barbell Calculator (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”).   Please read this Privacy Policy carefully.  IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION. 

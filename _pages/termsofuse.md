@@ -5,7 +5,9 @@ include_in_header: false
 ---
 
 Powerlift — Barbell Calculator
+
 TERMS OF USE
+
 Last updated March 20, 2020
 
 These Terms of Use ("Terms") represent a binding agreement between Yihwan Kim, the developer behind Powerlift — Barbell Calculator (“we” or “us” or “our”), and you (“user” or “you”). These Terms of Use limit our liability and govern the terms you agree to when you visit or use our mobile application (the “Application” or "Services"). Please read these Terms of Use carefully.  IF YOU DO NOT AGREE WITH THE TERMS OF USE DESCRIBED HEREIN, PLEASE DO NOT ACCESS THE APPLICATION OR SERVICES. 
