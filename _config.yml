@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The modern barbell plate calculator. Weightlifting without the math.
+app_description                           : The modern barbell plate calculator. Experience weightlifting without the math.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Dark Mode
     description                           : Rest your eyes and focus on hitting your next PR
-    fontawesome_icon_name                 : moon-stars
+    fontawesome_icon_name                 : adjust
 
   - title                                 : Unlock Pro
     description                           : Take it to the next level with manual mode and custom plates
@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Custom Plates 
     description                           : Pro Feature — Make your mark, customize your inventory, and create plates of your own.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : sparkles
   
   - title                                 : Lifetime Updates
     description                           : Pro Feature — No annoying recurring subscription. Just pay once and get the latest and greatest for life.
